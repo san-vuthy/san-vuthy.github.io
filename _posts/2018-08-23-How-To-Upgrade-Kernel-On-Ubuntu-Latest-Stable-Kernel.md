@@ -11,6 +11,7 @@ Sound so interesting right? There is more I have a very basic bash script that w
 
 ### Step 1: Check Installed Kernel Version
 In order to see the current version of our kernel we can type:
+
 `$ uname -sr`
 
 You should have the information about your kernel version.
@@ -22,15 +23,18 @@ If you are behind the latest kernel then we begin the step 2.
 I hosted my script in github if you haven't install git in your system yet I recommend you check and follow the step here [How To Install Git Version Control Systems On Ubuntu 2018](https://www.ayoungnotes.com/2018/08/How-To-Install-Git-On-Ubuntu-2018)
 
 Then clone all my script from my github repository in the following command:
+
 `git clone https://github.com/mrayoung/Script.git`
 
 If you only need a single script for your kernel upgrade just use WGET by following command:
+
 `wget https://github.com/mrayoung/Script/blob/master/upgrade-ubuntu-kernel.sh`
 
 If you clone from my repo need to go inside the directory and begin step 3.
 
 ### Step 3: Change Permission
 Before execute the script you need to change to permission on script you want to executed this done by following command:
+
 `chmod +x upgrade-ubuntu-kernel.sh`
 
 ### Step 4 — Execute Command for Upgrading
@@ -38,6 +42,7 @@ If you understand the bash or it's very easy to understand first it's make a dir
 next it's download all the deb file into that directory and last it's install by using`dpkg -i`.
 
 To execute the script just type:
+
 `sudo ./upgrade-ubuntu-kernel.sh` 
 
 Then it's do the rest for you what I have mentioned above.
@@ -48,6 +53,7 @@ after successfully executed you should reboot your system.
 ### Step 5 — Verify
 Surely will need to verify your kernel after upgraded.
 this is very easy just go back to Step 1. 
+
 `$ uname -sr`
 
 Let's me know if you find some error on your upgrading.

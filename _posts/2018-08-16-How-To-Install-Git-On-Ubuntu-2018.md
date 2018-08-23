@@ -4,7 +4,7 @@ title: How To Install Git Version Control Systems On Ubuntu 2018
 comments: true
 
 ---
-![Githublogo](http://openmatt.org/wp-content/uploads/2015/11/octocat_kenobi.jpg)
+![Githublogo](https://raw.githubusercontent.com/mrayoung/ayoungnotes.github.io/master/_posts/img/octocat_kenobi.jpg)
 Git Version control systems is my favorite share and collaborate coding projects. Not just me Git is one of the most popular version control.
 
 Further than my noted I will show the step installing and configuring Git on an Ubuntu 18.04 and this could be available to any version of Ubuntu.
