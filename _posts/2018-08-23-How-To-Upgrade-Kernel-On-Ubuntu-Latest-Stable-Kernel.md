@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How To Install Upgrade Kernel On Ubuntu to Latest Stable Kernel
+title: How To Upgrade Kernel On Ubuntu to Latest Stable Kernel
 comments: true
 
 ---
