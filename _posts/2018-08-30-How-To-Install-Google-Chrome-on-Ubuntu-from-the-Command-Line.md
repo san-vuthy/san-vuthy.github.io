@@ -22,7 +22,7 @@ Use the down arrow key to scroll to the bottom of this file. Add the following A
 
 `deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main`
 
-[www.ayoungnotes.com|Source List](https://raw.githubusercontent.com/mrayoung/ayoungnotes.github.io/master/_posts/img/chrome_source_list.png)
+![www.ayoungnotes.com|Source List](https://raw.githubusercontent.com/mrayoung/ayoungnotes.github.io/master/_posts/img/chrome_source_list.png)
 
 ### Step: 2 Add Add Linux Signing Key
 
