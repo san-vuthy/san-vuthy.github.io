@@ -4,7 +4,7 @@ title: How To Install Google Chrome on Ubuntu from the Command Line
 comments: true
 
 ---
-![www.ayoungnotes.com|Google Chrome](https://raw.githubusercontent.com/mrayoung/ayoungnotes.github.io/master/_posts/img/chrome.png)
+![](https://raw.githubusercontent.com/mrayoung/ayoungnotes.github.io/master/_posts/img/chrome.png)
 
 I have installed new Ubuntu Operating System on my laptop during the trip to ShenZhen. For those who never been here it's pretty easy to install Google Chrome by download its from Google website.
 
