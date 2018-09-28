@@ -4,12 +4,27 @@ title: About Me
 comments: true
 
 ---
+### About Me
+
 ![ayoung](https://media.licdn.com/dms/image/C5103AQHtfKwZJTNowQ/profile-displayphoto-shrink_200_200/0?e=1543449600&v=beta&t=f10SUQKkgGnmMogADiNLNPu7ILjerkTx7V73f3zdYaw)
-Since the day that I realized that life is getting harder and harder when you are trying hard and it’s easier when you do just little effective thing I have changed my direction. All the thing should be simply action with intelligent decision. After a year as a System engineer and another 3 years working in banking sector in IT field I felt like I want to retire from that responsibility. 
 
-I think I should start learn from new things and trending technology and that’s the time I found myself so in love with blockchain and decentralized.
+Saing Sab, Co-founder of Bitriel, is a Decentralization Enthusiast and very passionate about Blockchain, FinTech and Cyber Security.
 
-### People see its as a risk but I see it’s opportunity. 
+With three years background in Banking and Financial Institution as IT who responsible for Infra Structure and Payment Management System he has designed, Implemented and Developing both simple and sophisticated solutions of related industrial in Cambodia.
+
+Because he love to solve the problem, In 2018 he co-founded Bitriel, a Cryptocurrency Exchange, Professional OCT service and Global Remittance where people can trade any cryptocurrency to cash, cryptocurrency brokerage firm and Inflow remittance from any country.
+
+Beyond Bitreil, Saing is a Lead Technical Security of Koompi, a local branded and affordable laptop for next generation of engineer and problem solver. 
+
+In addition, he is a independent member of Information Systems Security Alliance (ISSA), a local information security community in Cambodia.
+
+2018, Saing joint SmallWorld's REDD lab a Research and Development which is focus on blockchain and decentralized application. 
+
+https://www.channelnewsasia.com/news/asia/cambodian-computer-koompi-cheap-10364288
+https://www.issalliance.org
+http://smallworldcambodia.com/members
+https://www.koompi.com/#/about
+https://www.ayoungnotes.com
 
 <div id="disqus_thread"></div>
 <script>
