@@ -19,7 +19,7 @@ paginate_path: "_posts/page-:num"
 author:
   name:              AyoungNotes
   url:               https://www.ayoungnotes.com
-  email:             markdotto@gmail.com
+  email:             saing.sab@gmail.com
 
 # Custom vars
 version:             1.0.0
