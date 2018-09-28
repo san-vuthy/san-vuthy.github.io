@@ -19,9 +19,13 @@ In addition, he is a independent member of Information Systems Security Alliance
 2018, Saing joint SmallWorld's REDD lab a Research and Development which is focus on blockchain and decentralized application. 
 
 [More about Bitriel](https://www.bitreil.com)
+
 [More about SmallWorld Venture](http://smallworldcambodia.com/members)
+
 [More About Koompi](https://www.koompi.com/#/about)
+
 [More about ISSA](https://www.issalliance.org)
+
 [More About EveryNation Cambodia](http://www.everynationcambodia.org)
 
 <div id="disqus_thread"></div>
