@@ -4,8 +4,6 @@ title: About Me
 comments: true
 
 ---
-### About Me
-
 ![ayoung](https://media.licdn.com/dms/image/C5103AQHtfKwZJTNowQ/profile-displayphoto-shrink_200_200/0?e=1543449600&v=beta&t=f10SUQKkgGnmMogADiNLNPu7ILjerkTx7V73f3zdYaw)
 
 Saing Sab, Co-founder of Bitriel, is a Decentralization Enthusiast and very passionate about Blockchain, FinTech and Cyber Security.
@@ -20,11 +18,11 @@ In addition, he is a independent member of Information Systems Security Alliance
 
 2018, Saing joint SmallWorld's REDD lab a Research and Development which is focus on blockchain and decentralized application. 
 
-https://www.channelnewsasia.com/news/asia/cambodian-computer-koompi-cheap-10364288
-https://www.issalliance.org
-http://smallworldcambodia.com/members
-https://www.koompi.com/#/about
-https://www.ayoungnotes.com
+[More about Bitriel](https://www.bitreil.com)
+[More about SmallWorld Venture](http://smallworldcambodia.com/members)
+[More About Koompi](https://www.koompi.com/#/about)
+[More about ISSA](https://www.issalliance.org)
+[More About EveryNation Cambodia](http://www.everynationcambodia.org)
 
 <div id="disqus_thread"></div>
 <script>
