@@ -179,7 +179,7 @@ body{
   margin-bottom: 0;
 }
 .media-meta{
-  font-size: 15px;
+  font-size: 15px !important;
 }
 /* Sidebar nav */
 .sidebar-nav {
@@ -545,14 +545,14 @@ a.pagination-item:hover {
   color: #8f5536;
 }
 .btn-primary{
-  color: #0069b2;
-  text-transform: uppercase;
-  font-size: 18px;
+  color: #0069b2 !important;
+  text-transform: uppercase !important;
+  font-size: 18px !important;
 }
 
 img{
-  border-radius: 20px;
-  padding: 20px 0px;
+  border-radius: 20px !important;
+  padding: 20px 0px !important;
 }
 
 
