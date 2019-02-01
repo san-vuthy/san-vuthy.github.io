@@ -156,8 +156,8 @@ body{
   overflow-y: auto;
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-size: .875rem; /* 15px */
-  color: #40739e;
-  background-color: #202020;
+  color: #fff !important;
+  background-color: #40739e !important;
   -webkit-transition: all .3s ease-in-out;
           transition: all .3s ease-in-out;
 }
