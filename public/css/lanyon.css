@@ -178,7 +178,9 @@ body{
 .sidebar-item p:last-child {
   margin-bottom: 0;
 }
-
+.media-meta{
+  font-size: 15px;
+}
 /* Sidebar nav */
 .sidebar-nav {
   border-bottom: 1px solid rgba(255,255,255,.1);
@@ -541,6 +543,16 @@ a.pagination-item:hover {
 .theme-base-0f .sidebar-toggle,
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
+}
+.btn-primary{
+  color: #0069b2;
+  text-transform: uppercase;
+  font-size: 18px;
+}
+
+img{
+  border-radius: 20px;
+  padding: 20px 0px;
 }
 
 
